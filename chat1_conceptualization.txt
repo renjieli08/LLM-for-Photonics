@@ -1,3 +1,5 @@
+###chat history with GPT-4 to generate Meep FDTD code
+
 Let's start to design photonic crystal surface emitting lasers, how do you think we should start?
 ChatGPT
 Designing a photonic crystal surface emitting laser (PCSEL) is a complex task that requires in-depth knowledge in the field of photonics and materials science. Here is a general procedure to get started:
@@ -188,5 +190,6 @@ Results Analysis and Iteration: Analyze the results of your DQN training and tes
 Model Refinement and Hyperparameter Tuning: Based on the initial results, refine your model and tune the hyperparameters. The goal is to improve the DQN agent's performance in generating effective designs.
 
 Documentation and Reporting: Document your project methodology, results, and any challenges encountered along the way. This is an essential step for any engineering project.
+
 
 Remember that this is an iterative process. You might not get it right on the first try, and that's okay. Each iteration will bring you closer to a DQN agent that can effectively design PCSELs.

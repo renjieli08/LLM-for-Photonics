@@ -1,4 +1,4 @@
-#Code written by GPT4 to simulate PCSEL. Authors: Hai Huang, Renjie Li, November 2023
+#Code written by GPT4 to simulate PCSEL. Authors: Hai Huang, Renjie Li, November 2025
 import meep as mp
 import numpy as np
 import matplotlib.pyplot as plt

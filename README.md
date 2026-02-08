@@ -51,5 +51,5 @@ Meep FDTD was used as the environment for simulating nanophotonics.
 
 ## citation
 If you used our code/idea for your research, please consider citing the paper as:
-![Screen Shot 2023-08-07 at 13 43 25](https://github.com/Arcadianlee/LLM-for-Photonics/assets/76676601/c4f3ad7c-3c4f-4dec-a8ee-0dc23d872658)
+TBD
 

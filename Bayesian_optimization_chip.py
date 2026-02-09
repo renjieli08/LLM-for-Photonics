@@ -1,10 +1,10 @@
 """Muitl-objective Bayesian optimization for optimizing PCSELs (using OpenAI Gym).
 #Renjie Li, Dec 2025
 """
-#2023.5.15: this version increases N_batch and beta in UCB.
-#2023.6.6: this version moved Q and lam from objectives to constraints
-#2023.6.12: this version adds a upper constraint for power
-#2023.10.8: this version uses additive Gaussian RBF kernel 
+#2025.5.15: this version increases N_batch and beta in UCB.
+#2025.7.6: this version moved Q and lam from objectives to constraints
+#2025.9.12: this version adds a upper constraint for power
+#2025.11.8: this version uses additive Gaussian RBF kernel 
 
 #import sys
 import gym
@@ -350,5 +350,6 @@ for trial in range(1, N_TRIALS + 1):
 
 
 writer.close()
+
 
 
